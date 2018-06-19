@@ -32,4 +32,8 @@ npm start
 
 ### Project Images
 
-![VS Code Jest Preview](https://cloud.githubusercontent.com/assets/49038/20795349/a032308a-b7c8-11e6-9b34-7eeac781003f.png)
+![burger1](https://github.com/kedarnadkarny/burger-builder/blob/master/src/assets/images/burger1.png)
+
+![burger2](https://github.com/kedarnadkarny/burger-builder/blob/master/src/assets/images/burger2.png)
+
+![burger3](https://github.com/kedarnadkarny/burger-builder/blob/master/src/assets/images/burger3.png)
