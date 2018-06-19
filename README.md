@@ -3,6 +3,10 @@
 - Create your own custom burger
 - Order using firebase
 
+## Note
+- This project is still work under progress.
+- I am going to add authentication and will try adding Redux as well.
+
 ### Setup
 
 - Open terminal and clone the repositoy
